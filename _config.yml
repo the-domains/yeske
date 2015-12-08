@@ -1,0 +1,14 @@
+layout_spectrum: 0.9973147
+color:
+  saturation: 0.6616392
+  brandStrength: 1
+  lightness: 0.3754028
+  brandColors:
+    - '#030303'
+    - '#FFFFFF'
+    - '#CFA339'
+    - '#C4C4C4'
+    - '#393939'
+  rhythmicContrast: 0.8407377
+typography_spectrum: 0.5891514
+name: YESKE
