@@ -1,6 +1,6 @@
 name: YESKE
 favicon: null
-layout_spectrum: 0.23979
+layout_spectrum: 0.47225
 typography_spectrum: 0.65617
 title: 'YESKE '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CFA339'
     - '#C4C4C4'
     - '#393939'
-  brandStrength: 1
-  lightness: 0.3754028
+  brandStrength: 0.75
+  lightness: 0.4375
   saturation: 0.6616392
-  rhythmicContrast: 0.8407377
+  rhythmicContrast: 1
 purpose: []
