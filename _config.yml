@@ -1,14 +1,29 @@
+name: YESKE
+favicon: null
 layout_spectrum: 0.9973147
+typography_spectrum: 0.5891514
+title: 'YESKE '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6616392
-  brandStrength: 1
-  lightness: 0.3754028
   brandColors:
     - '#030303'
     - '#FFFFFF'
     - '#CFA339'
     - '#C4C4C4'
     - '#393939'
+  brandStrength: 1
+  lightness: 0.3754028
+  saturation: 0.6616392
   rhythmicContrast: 0.8407377
-typography_spectrum: 0.5891514
-name: YESKE
+purpose: []
