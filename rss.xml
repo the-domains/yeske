@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[YESKE]]></title>
-        <description><![CDATA[YESKE]]></description>
+        <title><![CDATA[YESKE ]]></title>
+        <description><![CDATA[YESKE ]]></description>
         <link>https://thegrid.ai/yeske/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 03:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 03:44:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yeske/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YESKE COACHING]]></title>
+            <description><![CDATA[<h1>YESKE COACHING</h1>]]></description>
+            <link>https://thegrid.ai/yeske/yeske-coaching/index.html</link>
+            <guid isPermaLink="false">e89025f1-29e8-4fe2-b4cc-0e64a8045834</guid>
+            <pubDate>Tue, 08 Dec 2015 03:44:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5333fc3-eb29-470d-9d4b-c49dce201a11.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/yeske/8c0c7ff8-f57f-4ca6-819b-5aefc39613b8/index.html</link>
             <guid isPermaLink="false">8c0c7ff8-f57f-4ca6-819b-5aefc39613b8</guid>
             <pubDate>Tue, 08 Dec 2015 03:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[YESKE COACHING]]></title>
-            <description><![CDATA[<h1>YESKE COACHING</h1>]]></description>
-            <link>https://thegrid.ai/yeske/yeske-coaching/index.html</link>
-            <guid isPermaLink="false">e89025f1-29e8-4fe2-b4cc-0e64a8045834</guid>
-            <pubDate>Tue, 08 Dec 2015 03:38:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Master Your Emotional Health and Master Your Life | Tony Robbins Blog]]></title>
