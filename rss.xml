@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YESKE]]></title>
+        <description><![CDATA[YESKE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Dec 2015 03:21:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Master Your Emotional Health and Master Your Life | Tony Robbins Blog]]></title>
+            <description><![CDATA[<article><h1>Master Your Emotional Health and Master Your Life | Tony Robbins Blog</h1><p>Being in charge of your emotional health is the key to living life on your terms. Learn the 3 forces that determine what you feel and master your emotions!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/977261d71efc959764427621059f2103/croprotate.jpg?cropheight=420&cropwidth=376&degrees=0&input=https%3A%2F%2Ftraining.tonyrobbins.com%2Fwp-content%2Fuploads%2F2013%2F10%2Fthetriad.jpg&x=104&y=60"></article>]]></description>
+            <link>https://training.tonyrobbins.com/master-your-emotional-health-and-master-your-life/</link>
+            <guid isPermaLink="false">2806d8f2-95c6-411a-9efc-e8c897cb2865</guid>
+            <pubDate>Tue, 08 Dec 2015 03:21:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
